@@ -42,7 +42,8 @@ export default function Home() {
         including but not limited to the website platform used. This content is
         produced for informational and educational use only. In accordance with
         the principles of fair use, as outlined in section 107 of the Copyright
-        Act 1976, this website's content is intended for educational purposes.
+        Act 1976, this website&apos;s content is intended for educational
+        purposes.
       </p>
     </main>
   );
